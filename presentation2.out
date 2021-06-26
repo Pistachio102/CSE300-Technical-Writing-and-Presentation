@@ -1,0 +1,14 @@
+\BOOKMARK [2][]{Outline0.1}{Introduction}{}% 1
+\BOOKMARK [2][]{Outline0.2}{Definition}{}% 2
+\BOOKMARK [2][]{Outline0.3}{Why A* search?}{}% 3
+\BOOKMARK [2][]{Outline0.4}{A* search Overview}{}% 4
+\BOOKMARK [2][]{Outline0.5}{Heuristics}{}% 5
+\BOOKMARK [2][]{Outline0.6}{A* Search Algorithm}{}% 6
+\BOOKMARK [2][]{Outline0.7}{Heuristic Functions}{}% 7
+\BOOKMARK [3][]{Outline0.7.1.33}{Exact Heuristics}{Outline0.7}% 8
+\BOOKMARK [3][]{Outline0.7.2.36}{Approximate Heuristics}{Outline0.7}% 9
+\BOOKMARK [2][]{Outline0.8}{Implementation}{}% 10
+\BOOKMARK [3][]{Outline0.8.1.41}{Breaking Ties}{Outline0.8}% 11
+\BOOKMARK [3][]{Outline0.8.2.44}{Heap Data Structures}{Outline0.8}% 12
+\BOOKMARK [2][]{Outline0.9}{Time Complexity}{}% 13
+\BOOKMARK [2][]{Outline0.10}{Applications}{}% 14

@@ -1,0 +1,17 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Definition}{4}{0}{2}
+\beamer@sectionintoc {3}{Why A* search?}{7}{0}{3}
+\beamer@sectionintoc {4}{A* search Overview}{9}{0}{4}
+\beamer@sectionintoc {5}{Heuristics}{14}{0}{5}
+\beamer@sectionintoc {6}{A* Search Algorithm}{23}{0}{6}
+\beamer@sectionintoc {7}{Heuristic Functions}{33}{0}{7}
+\beamer@subsectionintoc {7}{1}{Exact Heuristics}{33}{0}{7}
+\beamer@subsectionintoc {7}{2}{Approximate Heuristics}{36}{0}{7}
+\beamer@subsubsectionintoc {7}{2}{1}{Manhattan Distance}{36}{0}{7}
+\beamer@subsubsectionintoc {7}{2}{2}{Diagonal Distance}{37}{0}{7}
+\beamer@subsubsectionintoc {7}{2}{3}{Euclidean Distance}{38}{0}{7}
+\beamer@sectionintoc {8}{Implementation}{39}{0}{8}
+\beamer@subsectionintoc {8}{1}{Breaking Ties}{41}{0}{8}
+\beamer@subsectionintoc {8}{2}{Heap Data Structures}{44}{0}{8}
+\beamer@sectionintoc {9}{Time Complexity}{47}{0}{9}
+\beamer@sectionintoc {10}{Applications}{50}{0}{10}

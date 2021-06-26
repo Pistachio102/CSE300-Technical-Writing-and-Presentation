@@ -1,0 +1,59 @@
+\usepackage{color}
+\usepackage[skins]{tcolorbox}
+\usepackage{array}
+
+
+% color theme
+\definecolor{bgcolor}{rgb}{0.015, 0.15, 0.23}
+\definecolor{primary}{rgb}{0.88, 0.86, 0.75}
+\definecolor{accent}{rgb}{0.42, 0.62, 0.6}
+\definecolor{darkaccent}{rgb}{0.3, 0.48, 0.5}
+\definecolor{darkeraccent}{rgb}{0.15, 0.4, 0.42}
+
+
+
+% palette colors
+\setbeamercolor{palette primary}{bg = accent, fg = bgcolor}
+\setbeamercolor{palette secondary}{bg = darkaccent, fg = white}
+\setbeamercolor{palette tertiary}{bg = darkeraccent, fg = primary}
+\setbeamercolor{palette quaternary}{bg = darkaccent, fg = white}
+
+\setbeamercolor{background canvas}{bg = bgcolor}
+\setbeamercolor{title}{bg = darkaccent, fg = white}
+\setbeamercolor{author}{fg = white}
+\setbeamercolor{date}{fg = white}
+\setbeamercolor{frametitle}{bg = primary, fg = bgcolor}
+
+\setbeamercolor{section in toc}{fg = white}
+\setbeamercolor{section number projected}{bg = accent, fg = bgcolor}
+\setbeamercolor{subsection in toc}{fg = white}
+\setbeamercolor{subsection number projected}{bg = accent, fg = bgcolor}
+\setbeamercolor{item}{fg = darkaccent}
+\setbeamercolor{subitem}{fg = accent}
+\setbeamercolor{description item}{fg = white}
+\setbeamercolor{caption}{fg = white}
+\setbeamercolor{caption name}{fg = accent}
+
+% font theme
+\usefonttheme{default}
+\setbeamerfont{title}{size = \LARGE}
+\setbeamerfont{frametitle}{size = \Large}
+\setbeamerfont{section/subsection in toc}{size = \Large}
+\setbeamerfont{section number projected}{series = \bfseries}
+\setbeamerfont{normal text}{size = \Large}
+
+% inner theme
+\useinnertheme[shadow]{rounded}
+\useoutertheme{infolines}
+\setbeamertemplate{itemize items}[square]
+\setbeamertemplate{enumerate items}[circle]
+\setbeamertemplate{section in toc}[circle]
+\setbeamertemplate{subsection in toc}[square]
+\setbeamertemplate{subsubsection in toc}[square]
+
+% Standard block
+\setbeamercolor{block title}{fg = white, bg = darkaccent}
+\setbeamercolor{block body}{bg = primary, fg = bgcolor}
+\setbeamercolor{normal text}{fg = white}
+
+
